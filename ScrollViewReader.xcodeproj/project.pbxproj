@@ -6,13 +6,8 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		75EB4349302F4AD0007660AB /* READ.md in Resources */ = {isa = PBXBuildFile; fileRef = 75EB4348302F4AD0007660AB /* READ.md */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		75EB433A302F449F007660AB /* ScrollViewReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollViewReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		75EB4348302F4AD0007660AB /* READ.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = READ.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,7 +32,6 @@
 		75EB4331302F449F007660AB = {
 			isa = PBXGroup;
 			children = (
-				75EB4348302F4AD0007660AB /* READ.md */,
 				75EB433C302F449F007660AB /* ScrollViewReader */,
 				75EB433B302F449F007660AB /* Products */,
 			);
@@ -115,7 +109,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				75EB4349302F4AD0007660AB /* READ.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
